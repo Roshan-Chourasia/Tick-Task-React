@@ -54,6 +54,8 @@ The app should now be running at http://localhost:5173
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e35ecabc-2986-4eb3-8492-379e98c75437" />
 
+### Live Preview: https://roshan-chourasia.github.io/Tick-Task-React/
+
 ---
 
 ## 🧠 Learnings & Highlights
